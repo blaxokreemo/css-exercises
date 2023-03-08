@@ -35,6 +35,11 @@ ul {
   padding: 8px 20px;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
 .left-links {
   display: flex;
   margin-right: auto;
