@@ -22,10 +22,6 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 15px;
   display: flex;
-}
-
-.left-aligned {
-  display: flex;
   gap: 15px;
 }
 
@@ -52,7 +48,6 @@ body {
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 10px;
-  flex: 1 1 auto;
 }
 
 .close-button {
