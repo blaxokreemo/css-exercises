@@ -11,11 +11,13 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 32px;
 }
 
 .plants-list {
   display: flex;
   justify-content: center;
+  gap: 52px;
 }
 
 .plant {
